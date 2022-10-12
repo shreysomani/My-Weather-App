@@ -51,4 +51,4 @@ document
     }
   });
 
-weather.fetchWeather("Jaipur");
+weather.fetchWeather("bangalore");
